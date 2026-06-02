@@ -1,4 +1,4 @@
-function Paper2_structural_response_sample_simulation_4RK;
+function Paper2_structural_response_sample_simulation;
 clear;clc;close all;
 current_path = cd;
 Data_path = [current_path,'\data\'];
